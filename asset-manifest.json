@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wordrunner-typing-app/static/css/main.0f05838a.css",
+    "main.js": "/wordrunner-typing-app/static/js/main.dff34b38.js",
+    "index.html": "/wordrunner-typing-app/index.html",
+    "main.0f05838a.css.map": "/wordrunner-typing-app/static/css/main.0f05838a.css.map",
+    "main.dff34b38.js.map": "/wordrunner-typing-app/static/js/main.dff34b38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f05838a.css",
+    "static/js/main.dff34b38.js"
+  ]
+}
